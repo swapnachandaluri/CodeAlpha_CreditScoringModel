@@ -29,5 +29,5 @@ German Credit Dataset
 Achieved high accuracy in predicting creditworthiness.
 
 ## Author
-Your Name
+chandaluri Lakshsmi Swapna
 CodeAlpha Machine Learning Internship
